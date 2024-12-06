@@ -1,0 +1,43 @@
+
+.Serivces-Section{
+background: #D6ECF7;
+padding-top:4rem;
+
+}
+.Serivces-Section .content-service{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Serivces-Section .card-service{
+    width:295px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 1rem;
+}
+.Serivces-Section .card-service img{
+width: 100%;
+height:190px
+}
+.Serivces-Section .card-service .crad-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Serivces-Section .card-service .icon-desc{
+    display: flex;
+    gap: 15px;
+}
+.Serivces-Section .card-service a{
+    width: 164px;
+    height: 48px;
+    background-color: #4182C3;
+    color: white;
+    border-radius: 8px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}

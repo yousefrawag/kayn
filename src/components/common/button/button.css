@@ -1,0 +1,14 @@
+.button-custome{
+    width: 136px;
+    height: 49px;
+    background-color: #00AEEF;
+    color: white;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+    text-decoration:none
+}

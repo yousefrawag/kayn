@@ -1,0 +1,16 @@
+.about-section{
+    margin-top: 4rem;
+    min-height:400px;
+    margin-bottom:4rem
+}
+.about-section .about-content-section{
+    background-color: red;
+}
+.about-section .image-section{
+   width: 100%;
+   height: 100%;
+}
+.about-section .image-section img{
+    width: 100%;
+    height: 100%;
+ }

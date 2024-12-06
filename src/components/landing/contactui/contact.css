@@ -1,0 +1,14 @@
+.contact-section .contact .content{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.contact-section .contact{
+    background: #D6ECF7;
+    border-radius: 16px;
+  
+}
+.contact img{
+    height: 80%;
+}

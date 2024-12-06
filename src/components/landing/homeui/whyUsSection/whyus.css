@@ -1,0 +1,10 @@
+.whyus-section{
+    margin-top: 4rem;
+    min-height:400px
+}
+.whyus-section .whyus-content-section{
+    background-color: red;
+}
+.whyus-section .image-section{
+    background-color: yellow;
+}
